@@ -1,8 +1,5 @@
-- Test test test 
--
-- 
-- 
-- 
+- For test 
+- from wloj 1031 http://wloj.wlsh.tyc.edu.tw/problem/1031
 
 <!---
 hanopause/hanopause is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
